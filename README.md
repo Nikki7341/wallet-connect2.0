@@ -1,4 +1,4 @@
-# Wallet Connect Integration with the Latest @web3-react document by Revinfotech
+# Wallet Connect Integration with the Latest @web3-react
 
 This readme file contains information on how you can use @web3-react/core to connect your Dapps with your wallets and establish decentralized connections and payments. It will cover connections with:
 
